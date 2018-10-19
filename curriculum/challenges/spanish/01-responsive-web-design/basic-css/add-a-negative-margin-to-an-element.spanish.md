@@ -8,10 +8,10 @@ localeTitle: Agregar un margen negativo a un elemento
 ---
 
 ## Description
-<section id="description"> El <code>margin</code> es una propiedad que controla la cantidad de espacio entre el <code>border</code> de un elemento y los elementos circundantes. Si establece el <code>margin</code> en un valor negativo, el elemento aumentará de tamaño. </section>
+<section id="description"> El <code>margin</code> de un elemento controla la cantidad de espacio entre el <code>border</code> de un elemento y los elementos alrededor de ella. Si establece el <code>margin</code> de un elemento a un valor negativo, el elemento aumentará de tamaño. </section>
 
 ## Instructions
-<section id="instructions"> Intente establecer el <code>margin</code> en un valor negativo como el del cuadro rojo. Cambie el <code>margin</code> del cuadro azul a <code>-15px</code> , para que llene todo el ancho horizontal del cuadro amarillo que lo rodea. </section>
+<section id="instructions"> Intente  el <code>margin</code> en un valor negativo como el del cuadro rojo. Cambie el <code>margin</code> del cuadro azul a <code>-15px</code> , para que llene todo el ancho horizontal del cuadro amarillo que lo rodea. </section>
 
 ## Tests
 <section id='tests'>
